@@ -11,4 +11,4 @@
 4 - Atualizar remoto com local (git push origin nome_branch)
 git reset --hard
 TROCAR BRANCH PARA PUBLICACAO HMLG
-git.exe checkout -f -B feature_15253_template_boletos_16590_16591_16592_16593 remotes/edemilson/feature_15253_template_boletos_16590_16591_16592_16593 --
+git.exe checkout -f -B feature_15253_template_boletos_16590_16591_16592_16593 remotes/giancarloferraz/feature_15253_template_boletos_16590_16591_16592_16593 --
